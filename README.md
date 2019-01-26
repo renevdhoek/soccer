@@ -1,2 +1,2 @@
 # soccer
-Attempt to build a soccer game
+Attempt to build an old fashioned soccer game
